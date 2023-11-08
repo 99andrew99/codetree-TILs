@@ -7,6 +7,4 @@ a = sum
 b = sum
 c = sum
 
-print(a)
-print(b)
-print(c)
+print(a, b, c)
