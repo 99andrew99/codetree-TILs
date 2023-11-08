@@ -8,4 +8,4 @@ a = c
 
 print(a)
 print(b)
-print(C)
+print(c)
