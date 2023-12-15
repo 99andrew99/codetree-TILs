@@ -1,0 +1,6 @@
+a,b = input().split(" ")
+a = float(a)
+b = float(b)
+temp = (a + b) / (a- b)
+round(temp, 1)
+print(f"{temp:.2f}")
